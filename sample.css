@@ -60,9 +60,6 @@ main{
 .title{
   margin: 15px 0 5px;
 }
-.step-box {
-  float: left;
-}
 @media screen and (max-width: 768px){
   .step-box{
     float: none;
